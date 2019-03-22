@@ -14,4 +14,4 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-一个vuex的试验版
+> 一个vuex的试验版
